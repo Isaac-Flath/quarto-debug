@@ -1,8 +1,7 @@
 website:
   sidebar:
     contents:
-      - section: "Basics"
-        contents:
-        - fm.ipynb
-        - no_fm.ipynb
-        - index.ipynb
+      - 01_core.ipynb
+      - fm.ipynb
+      - index.ipynb
+      - no_fm.ipynb
