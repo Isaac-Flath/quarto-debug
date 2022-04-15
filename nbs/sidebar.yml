@@ -2,6 +2,7 @@ website:
   sidebar:
     contents:
       - 01_core.ipynb
+      - 02_flagtest.ipynb
       - fm.ipynb
       - index.ipynb
       - no_fm.ipynb
